@@ -26,7 +26,7 @@ public class Assignment2_2 {
 
         // User entered an invalid month
         if (month > 12) {
-            //System.out.println(Integer.toString(month) + " is invalid. Month values must be between 1 and 12, inclusive.");
+            System.out.println(Integer.toString(month) + " is invalid. Month values must be between 1 and 12, inclusive.");
             System.out.println("Bye bye!");
             return;
         }
