@@ -34,6 +34,6 @@ public class Assignment2_3 {
             kilo = kilo + 2;
         }
 
-        System.out.print("Bye bye!");
+        System.out.print("\nBye bye!");
     }
 }
